@@ -1,0 +1,45 @@
+.quix_side_menu {
+    border-right: 1px solid #333333;
+
+    .sidemenu_bottom_section {
+
+        width: 100%;
+        height: 80%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* background-color: #33333310; */
+
+        .items {
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+            height: auto;
+            cursor: pointer;
+
+        }
+
+    }
+}
+
+.quix_menu_item {
+    border-radius: 4px;
+    opacity: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 48px;
+    cursor: pointer;
+  
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+.quix_menuItem_label {}
