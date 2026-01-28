@@ -1,6 +1,6 @@
 {
   "name": "quix-ui",
-  "version": "1.3.16",
+  "version": "1.3.18",
   "description": "This is a react component library.",
   "type": "module",
   "main": "dist/index.js",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/lizzy-km/quix-ui/issues"
   },
-  "homepage": "https://github.com/lizzy-km/quix-ui#readme",
+  "homepage": "https://quix-ui.vercel.app/",
   "jest": {
     "testEnvironment": "jsdom"
   },
